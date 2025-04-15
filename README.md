@@ -1,72 +1,141 @@
-# 🚀 Welcome to My GitHub Profile!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=33&duration=4500&pause=1000&color=2EB7F8&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
 
-### 🌍 **Explore My Work:** [🌐 alisheikh.me]([https://ashwithrai.me](https://mdalisheikh704.github.io/Personal_Portfolio/))
+<img width="100%" src="/naimur_reza_anik.png"/> 
 
----
+    
+  
+## :chart_with_upwards_trend: Current Stats
+ 
+<div align="center" > 
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur-reza&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur-reza&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur-reza&theme=github_dark&utcOffset=8" width="32.5%">
+ 
+</div>
 
-## 👋 Hey there, I'm **Md Ali Sheikh!**
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimur-reza&theme=github_dark" width="98%">
+</div>
+ 
+## :mailbox: Reach me out
 
-A passionate **developer** and **tech enthusiast** from Bangalore, always curious about solving real-world problems with code! 🚀
+<br />
 
----
+<p align="center">
+  <a target="_blank" href="https://linkedin.com/in/naimur-reza">
+    <img height="75" src="https://github.com/naimur-reza/naimur-reza/blob/main/images/Linkedin.png">
+  </a>
+  <a target="_blank" href="https://www.facebook.com/iamrezadadu">
+    <img height="75" src="https://github.com/naimur-reza/naimur-reza/blob/main/images/Facebook.png">
+  </a>
+  <a target="_blank" href="https://twitter.com/NaimurReza3">
+    <img height="75" src="https://github.com/naimur-reza/naimur-reza/blob/main/images/Twitter.png">
+  </a>
+</p>
 
-## 🏆 **GitHub Stats & Achievements**
+<br />
+
+ 
+ 
+
+## :computer: Technologies that I know
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" height="60" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60" />
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" />
+      <br>Rest API
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
+      <br>Next JS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
+      <br>Express JS
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="60" height="60" />
+      <br>VSCode
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=appwrite" width="60" height="60" alt="Appwrite" />
+      <br>Appwrite
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=netlify" width="60" height="60" alt="NextAuth" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="60" height="60" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prisma" width="60" height="60" alt="Prisma" />
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="60" height="60" />
+      <br>Tailwind CSS
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-shwith&layout=compact&theme=radical)
+ ## :eyes: Current overview
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rai-shwith&theme=radical)](https://git.io/streak-stats)
+<div align="left">
+ <a href="https://app.daily.dev/naimuranik"><img align="right" src="https://api.daily.dev/devcards/v2/CRqhVmsm3oI6KOjuQSmO3.png?type=default&r=vyc"" width="200" alt="Naimur Reza's Dev Card"/></a>
+</div>
 
----
-
-## 🎯 **My Tech Stack**
-
-### 💻 **Frontend Development**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🔧 **Backend Development**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ **Database & Query Languages**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🛠️ **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🔗 **Version Control & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 **What I Love?**
-
-- 🖥️ Web Development & Full-Stack Engineering
-- 📊 Data Science & Machine Learning
-- 🛠️ Software Development & Open-Source Contributions
-
----
-
-## 🎖️ **GitHub Achievements**
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Rai-shwith&theme=radical&margin-w=15&margin-h=15)
-
----
-
-## 🌎 **Let's Connect!**
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashwith_rai_0404)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/raiashwith?text=Hey%20Ashwith%2C%20I%27m%20interested%20in%20your%20projects!%20Let's%20collaborate!)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919380531460?text=Hello%20Ashwith%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20love%20to%20connect!)  
-
----
-
-🔥 Always excited to **collaborate** and build amazing projects together!
+### 🥅 Goals of 2025 - Docker, Kubernates, CI/CD, Go, AWS 
+### 🤝 I’m looking - To collaborate on open-source projects
+### 🧣 I’m currently - Learning Testing and React-Native
+### 💤 Fun fact - I love to play virtual games 
