@@ -67,6 +67,10 @@
       <br>Python
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="60" height="60" />
       <br>Tailwind CSS
     </td>
@@ -74,8 +78,6 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
       <br>HTML5
