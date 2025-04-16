@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=1FCEF7&width=435&lines=HI%2C+I'm+MD+ALI+SHEIKH)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=33&duration=4500&pause=1000&color=2EB7F8&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
 
 <img width="100%" src="/alisheikh.png"/> 
@@ -7,7 +9,7 @@
 <br />
 
 <p align="center">
-  <a target="_blank" href="https://linkedin.com/in/naimur-reza">
+  <a target="_blank" href="https://www.linkedin.com/in/md-ali-sheikh-886744232">
     <img height="75" src="https://github.com/naimur-reza/naimur-reza/blob/main/images/Linkedin.png">
   </a>
   <a target="_blank" href="https://www.facebook.com/iamrezadadu">
@@ -114,13 +116,14 @@
 </table>
 
 
- ## :eyes: Current overview
+---
 
-<div align="left">
- <a href="https://app.daily.dev/naimuranik"><img align="right" src="https://api.daily.dev/devcards/v2/CRqhVmsm3oI6KOjuQSmO3.png?type=default&r=vyc"" width="200" alt="Naimur Reza's Dev Card"/></a>
-</div>
+## 👤 About Me
 
-### 🥅 Goals of 2025 - Docker, Kubernates, CI/CD, Go, AWS 
-### 🤝 I’m looking - To collaborate on open-source projects
-### 🧣 I’m currently - Learning Testing and React-Native
-### 💤 Fun fact - I love to play virtual games 
+- 🎓 *Education*: "Computer Science & Engineering" student at [Technocrats Institute of Technology & Science College of BHOPAL](https://technocratsgroup.edu.in/)
+- 💼 *Current Role*: Fullstack Web Developer
+- 🌍 *Location*: Bhopal, India
+- 💬 *Ask Me About*: JavaScript, React.js, Tailwind CSS, NodeJS, Django, Python
+- 🎯 *Career Goal*: To become a proficient full-stack developer, build innovative web applications, and contribute to meaningful projects
+
+--- 
