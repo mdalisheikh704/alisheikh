@@ -2,21 +2,6 @@
 
 <img width="100%" src="/alisheikh.png"/> 
 
-    
-  
-## :chart_with_upwards_trend: Current Stats
- 
-<div align="center" > 
-<div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur-reza&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur-reza&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur-reza&theme=github_dark&utcOffset=8" width="32.5%">
- 
-</div>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimur-reza&theme=github_dark" width="98%">
-</div>
- 
 ## :mailbox: Reach me out
 
 <br />
