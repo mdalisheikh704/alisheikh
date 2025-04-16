@@ -12,10 +12,10 @@
   <a target="_blank" href="https://www.linkedin.com/in/md-ali-sheikh-886744232">
     <img height="75" src="https://github.com/naimur-reza/naimur-reza/blob/main/images/Linkedin.png">
   </a>
-  <a target="_blank" href="https://www.facebook.com/iamrezadadu">
+  <a target="_blank" href="[https://www.facebook.com/](https://www.facebook.com/share/1FDtE5tjTy/)">
     <img height="75" src="https://github.com/naimur-reza/naimur-reza/blob/main/images/Facebook.png">
   </a>
-  <a target="_blank" href="https://twitter.com/NaimurReza3">
+  <a target="_blank" href="[https://twitter.com/NaimurReza3](https://x.com/MdAliSheikh704?t=gCPaX0ugu0mXTPG2RhZleA&s=09)">
     <img height="75" src="https://github.com/naimur-reza/naimur-reza/blob/main/images/Twitter.png">
   </a>
 </p>
@@ -38,10 +38,6 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" height="60" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
       <br>MongoDB
     </td>
@@ -54,10 +50,6 @@
       <br>Rest API
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
-      <br>Next JS
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
       <br>Express JS
     <td align="center" width="96">
@@ -67,32 +59,12 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=appwrite" width="60" height="60" alt="Appwrite" />
-      <br>Appwrite
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
       <br>Figma
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=netlify" width="60" height="60" alt="NextAuth" />
-      <br>Netlify
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=py" alt="Python" width="60" height="60" />
       <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prisma" width="60" height="60" alt="Prisma" />
-      <br>Prisma
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="60" height="60" />
@@ -127,3 +99,17 @@
 - 🎯 *Career Goal*: To become a proficient full-stack developer, build innovative web applications, and contribute to meaningful projects
 
 --- 
+
+
+## :chart_with_upwards_trend: Current Stats
+ 
+<div align="center" > 
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdalisheikh704&theme=github_dark" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdalisheikh704&theme=github_dark" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdalisheikh704&theme=github_dark&utcOffset=8" width="32.5%">
+ 
+</div>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdalisheikh704&theme=github_dark" width="98%">
+</div>
